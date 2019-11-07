@@ -7,5 +7,4 @@ class Student
   def raise_hand
     print "Pick me!\n"
   end
-
 end
